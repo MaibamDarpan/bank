@@ -1,0 +1,65 @@
+body {
+  padding: 100px;
+}
+.main-div {
+  width: 60vw;
+  height: 60vh;
+  margin: 0 auto;
+}
+.submit {
+  margin-top: 50px;
+  box-shadow: 2px 5px 10px gray;
+  padding: 50px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+#transection-area {
+  display: none;
+}
+.diposit {
+  background-color: rgb(120, 98, 219);
+  margin: 0 20px;
+  padding: 20px;
+  height: 250px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.withdraw {
+  background-color: rgb(141, 175, 77);
+  margin: 0 20px;
+  padding: 20px;
+  height: 250px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.balance {
+  background-color: lightpink;
+  margin: 0 20px;
+  padding: 20px;
+  height: 250px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.status {
+  width: 400px;
+  height: 300px;
+  padding: 30px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  box-shadow: 1px 2px 7px gray;
+}
